@@ -9,7 +9,7 @@ Acuña V., Bregoli F., Font C., Barceló D., Corominas L., Ginebreda A., Petrovi
 
 - Actual:<br />
 contaminant_C_actual_mask.tif<br />
-Simulated mean annual diclofenac accumulated concentration under actual conditions
+Simulated mean annual diclofenac accumulated concentration under actual conditions.
 
 - BAU:<br />
 contaminant_C_BAU_mask.tif<br />
@@ -37,6 +37,6 @@ contaminant_C_consum_swiss_SDG6_BAU_mask.tif<br />
 Simulated mean annual diclofenac accumulated concentration under future (2030) conditions, using all the above mentioned mitigation strategies (SDG6 sanitation, Swiss standard treatment and consumption reduction). <br />
 
 ### References
-UN General Assembly. Transforming our World: The 2030 Agenda for Sustainable Development. (2015)<br />
-Eggen, R. I. L., Hollender, J., Joss, A., Schärer, M. & Stamm, C. Reducing the discharge of micropollutants in the aquatic environment: The benefits of upgrading wastewater treatment plants. Environ. Sci. Technol. 48, 7683–7689 (2014)<br />
+- UN General Assembly. Transforming our World: The 2030 Agenda for Sustainable Development. (2015)<br />
+- Eggen, R. I. L., Hollender, J., Joss, A., Schärer, M. & Stamm, C. Reducing the discharge of micropollutants in the aquatic environment: The benefits of upgrading wastewater treatment plants. Environ. Sci. Technol. 48, 7683–7689 (2014)<br />
 
