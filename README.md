@@ -4,7 +4,8 @@ Results of DCL (diclofenac) concentrations calculated using a Contaminant Fate M
 The results are in raster (.tif) format and cover the world.
 Rasters use geographic coordinate system WGS84 with resolution of 1/16 deg (δ); the extreme positions x_0=-180 (western cell position) and y_0=-56 (southern cell position); the extension nr=2240 (number of rows) and nc=5760 (number of columns).
 
-For any question, please contact vacuna@icra.cat or rmarce@icra.cat. Please refer our article "Acuña V., Bregoli F., Font C., Barceló D., Corominas L., Ginebreda A., Petrovic M., Rodríguez-Roda I., Sabater S., Marcé R. *Mitigating pharmaceuticals impact on global freshwaters: upstream or end-of-pipe solutions?* (Submitted)"
+For any question, please contact vacuna@icra.cat or rmarce@icra.cat. Please refer our article: <br />
+Acuña V., Bregoli F., Font C., Barceló D., Corominas L., Ginebreda A., Petrovic M., Rodríguez-Roda I., Sabater S., Marcé R. *Mitigating pharmaceuticals impact on global freshwaters: upstream or end-of-pipe solutions?* (Submitted)
 
 - Actual:<br />
 contaminant_C_actual_mask.tif<br />
