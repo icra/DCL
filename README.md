@@ -7,3 +7,8 @@ SDG6_BAU         contaminant_C_SDG6_BAU_mask.tif<br />
 Swiss                     contaminant_C_swiss_mask.tif<br />
 Consum               contaminant_C_consum_mask.tif<br />
 All                           contaminant_C_consum_swiss_SDG6_BAU_mask.tif<br />
+
+
+:+1
+
+:thumb
